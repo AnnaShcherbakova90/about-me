@@ -6,4 +6,5 @@ My name is Anna, here some facts about me:
 3. I decided to change my profession
 4. I'm studying to become QA engineer in [Netology](https://netology.ru)
 5. My hobby is learning English 
-6. ![My favourite film](/https://www.google.com/search?q=into+the+wild&sca_esv=577390696&tbm=isch&sxsrf=AM9HkKnDudfvOp1cmxBegdFBkOQaz7exkg:1698476751031&source=lnms&sa=X&ved=2ahUKEwio5J37lpiCAxXZVPEDHc3fCV0Q_AUoAXoECAIQAw&biw=959&bih=554&dpr=2#imgrc=iOyW79dsDPfEmM)
+6. My favourite film 
+   ![My favourite film](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1FlL_RqKf5dc1HoeyeqDQqvKJzKPnWjqwZYTKBGflGKzKQF5HUdWqZB4i6Bg-M6aguQ&usqp=CAU)
