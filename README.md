@@ -7,4 +7,4 @@ My name is Anna, here some facts about me:
 4. I'm studying to become QA engineer in [Netology](https://netology.ru)
 5. My hobby is learning English 
 
-![This is my favourite photo](https://drive.google.com/file/d/1qwRfJSTbGqjR0O4DEY_-VPcnSIgG-AQj/view?usp=sharing)
+![This is my favourite photo](/https://drive.google.com/drive/folders/1jmfPD67yO39ttLEV461B8vwFctt85o8Y?ths=true)
